@@ -95,3 +95,4 @@ C:\Repositorio-Lucas\exercicio\Jatoba\obj\Debug\net9.0\Jatoba.pdb
 C:\Repositorio-Lucas\exercicio\Jatoba\obj\Debug\net9.0\Jatoba.genruntimeconfig.cache
 C:\Repositorio-Lucas\exercicio\Jatoba\obj\Debug\net9.0\ref\Jatoba.dll
 C:\Repositorio-Lucas\exercicio\Jatoba\obj\Debug\net9.0\compressed\ntf6r34k2i-iqzizpw3y6.gz
+C:\Repositorio-Lucas\exercicio\Jatoba\obj\Debug\net9.0\Jatoba.sourcelink.json
